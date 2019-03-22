@@ -3,7 +3,6 @@
 
 # New Feature！
 
-现在你已经处于 `new-feature` 分支了，你所看到的这段文字在 `master` 分支是没有的。假设这一段文字就是你新写的代码，现在你已经完成了任务，需要合并 `new-feature` 分支到 `master` ，你需要创建一个合并请求（MR）。
 
 点击[这里](/u/dtid_05853d6966f44229/p/dev-demo/git/merges?creator=dtid_05853d6966f44229&page=1)查看 MR 列表。
 
